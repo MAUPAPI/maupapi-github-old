@@ -1,0 +1,154 @@
+.u-section-1 {
+  background-image: url("images/Play.gif");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 697px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 574px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 440px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 330px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 208px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 1073px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 400;
+  font-family: "Press Start 2P";
+  margin: 44px auto 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 477px;
+  height: 262px;
+  margin: 60px auto 0 13px;
+}
+
+.u-section-2 .u-image-2 {
+  width: 478px;
+  height: 262px;
+  margin: -262px 92px 0 auto;
+}
+
+.u-section-2 .u-btn-1 {
+  font-family: "Press Start 2P";
+  border-style: solid;
+  background-image: none;
+  margin: 20px auto 0 119px;
+}
+
+.u-section-2 .u-btn-2 {
+  font-family: "Press Start 2P";
+  border-style: solid;
+  background-image: none;
+  margin: -49px 239px 0 auto;
+}
+
+.u-section-2 .u-text-2 {
+  font-family: "Press Start 2P";
+  font-weight: normal;
+  margin: 20px 784px 0 106px;
+}
+
+.u-section-2 .u-text-3 {
+  font-family: "Press Start 2P";
+  font-weight: normal;
+  margin: -72px 194px 60px 696px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-2 {
+    margin-right: 39px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 684px;
+    margin-left: 6px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 94px;
+    margin-left: 596px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-btn-2 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 470px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 0;
+    margin-left: 470px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-image-2 {
+    margin-right: 62px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 290px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 290px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 922px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 187px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 340px;
+    height: 186px;
+    margin-top: -269px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 90px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 90px;
+  }
+}
